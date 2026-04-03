@@ -1,5 +1,4 @@
-# Welcome to JavisVerse 🚀
-# A Universe of Joint Audio-Video Intelligence Symphony
+# Welcome to JavisVerse: A Universe of Joint Audio-Video Intelligence Symphony 🚀
 
 https://javisverse.github.io/
 
